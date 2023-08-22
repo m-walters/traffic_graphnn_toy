@@ -1,4 +1,4 @@
-# graphnn_toy
+# traffic_graphnn_toy
 A toy model of the traffic graph NN.  
 The purpose of this model is to see if the proposed NN architecture in `graphnn` and `graphnn_local` repos works with a controlled system.  
 That is, with clean data that follows a well-behaved pattern, can the NN learn the model--spoiler: it can.  
